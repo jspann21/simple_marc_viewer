@@ -8,6 +8,9 @@ MARC Record Viewer is a desktop application built with PyQt5 for viewing MARC (M
 - **Supported Formats:** Supports MARC binary, MARCXML, MARC-in-JSON, and MARC Mnemonic formats.
 - **User-Friendly Interface:** A simple and clean interface to view and parse MARC records.
 
+![image](https://github.com/user-attachments/assets/3d93f762-3a9d-4e3c-9621-a6d2eced286d)
+
+
 ## Installation
 
 1. **Clone the repository:**
