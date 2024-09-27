@@ -14,7 +14,7 @@ MARC Record Viewer is a desktop application built with PyQt5 for viewing MARC (M
 
     ```bash
     git clone https://github.com/jspann21/simple_marc_viewer.git
-    cd marc-viewer
+    cd simple_marc_viewer
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
