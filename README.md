@@ -13,7 +13,7 @@ MARC Record Viewer is a desktop application built with PyQt5 for viewing MARC (M
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/marc-viewer.git
+    git clone https://github.com/jspann21/simple_marc_viewer.git
     cd marc-viewer
     ```
 
